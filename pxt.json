@@ -1,5 +1,5 @@
 {
-    "name": "Robot Arm_Lib_v3",
+    "name": "Robot  3 20",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "custom.ts"
+        "custom.ts",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
